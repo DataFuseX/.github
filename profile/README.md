@@ -15,7 +15,7 @@ At DataFuse, we are passionate about pushing the boundaries of AI research and d
 
 ## Getting Involved 🤝
 
-We welcome contributions from the AI community and enthusiasts. If you're interested in collaborating with us or have ideas for potential projects, please reach out to us via email at [contact@datafuse.ai](mailto:contact@datafuse.ai).
+We welcome contributions from the AI community and enthusiasts. If you're interested in collaborating with us or have ideas for potential projects, please reach out to us via email at [contact@datafuse.ai](mailto:datafuse.999x@outlook.com).
 
 ## Licensing 📜
 
